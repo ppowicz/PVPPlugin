@@ -1,0 +1,8 @@
+main: pl.ppowicz.pvp.PVPPlugin
+name: PVPPlugin
+version: 1.0
+description: Simple PVP plugin
+api-version: 1.16
+
+author: toster01
+website: https://ppowicz.pl/, https://github.com/ppowicz/
